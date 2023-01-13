@@ -8,7 +8,7 @@ public class First {
 		int a=20;
 		System.out.println(a);
 
-                System.out.println("Rinku");
+                System.out.println("sonu");
 
         System.out.println("Akshay Kumar");
 
