@@ -1,4 +1,5 @@
-Class B
+package Akshay;
+class B
 {
 
  public static void main(String ag[])
