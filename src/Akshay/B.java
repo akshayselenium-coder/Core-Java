@@ -4,7 +4,7 @@ class B
 
  public static void main(String ag[])
  {
-   int a=50;
+   int g=50;
 
    int b=20;
 	 System.out.println("Testing Studio");
