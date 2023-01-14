@@ -4,7 +4,7 @@ class B
 
  public static void main(String ag[])
  {
-   int kamal=50;
+   System.out.println("Akshay kumar");
 
    int b=20;
 	 System.out.println("Testing Studio");
