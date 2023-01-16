@@ -6,7 +6,7 @@ class B
  {
 
    int a=9;
-
+   int h=9;
 
 
    int b=20;
