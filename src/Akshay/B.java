@@ -4,7 +4,7 @@ class B
 
  public static void main(String ag[])
  {
-   System.out.println("Channey"); int a=9;
+   int a=6;
 
    int b=20;
 	 System.out.println("Testing Studio");
